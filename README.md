@@ -1,10 +1,10 @@
-# comandos-Linux
+# Comandos-Linux
 Comandos linux para distribuciones Debian principalmente 
 
-- getent: comando paa obtener informacion sobre usuarios, grupos, contraseñas, etc 
+1- getent: comando paa obtener informacion sobre usuarios, grupos, contraseñas, etc 
  -- getent passw usuario
  -- getent group grupo1
 
-- groupdel: borrar un grupo
-- groupmod: Modifica un grupo
-- usermod: Modifica un usuario 
+2- groupdel: borrar un grupo
+3- groupmod: Modifica un grupo
+4- usermod: Modifica un usuario 
