@@ -1,7 +1,6 @@
 # comandos-Linux
 Comandos linux para distribuciones Debian principalmente 
 
-
 getent: comando paa obtener informacion sobre usuarios, grupos, contraseñas, etc 
  - getent passw usuario
  - getent group grupo1
