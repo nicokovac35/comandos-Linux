@@ -1,2 +1,7 @@
 1 - getent:
+ - getent passwd usuario
+ - getent group grupo1
 2 - groupdel: 
+3 - groupmod: modifica un grupo
+4 - usermod: Modifica un usuario
+5 - /etc/skel/ : El directorio por defecto cuyo contenido se copia a los nuevos directorios personales de los usuarios.
