@@ -5,6 +5,6 @@ Comandos linux para distribuciones Debian principalmente
  -- getent passw usuario
  -- getent group grupo1
 
-2 - groupdel: borrar un grupo
-3 - groupmod: Modifica un grupo
-4 - usermod: Modifica un usuario 
+2 - groupdel: borrar un grupo.
+3 - groupmod: Modifica un grupo.
+4 - usermod: Modifica un usuario. 
